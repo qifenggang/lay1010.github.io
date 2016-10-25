@@ -28,9 +28,7 @@ active: Linux
 # 首页除了最新文章外显示分类
 cates: 
   - Linux
-  - MongoDB
   - Python
-  - Others
 
 # 中文本地化
 locals:
