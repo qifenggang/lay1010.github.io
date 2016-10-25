@@ -23,7 +23,7 @@ favicon: /public/img/face.png
 
 
 # 主题设置，自动激活某个标签
-active: 读书
+active: Linux
 
 # 首页除了最新文章外显示分类
 cates: 
