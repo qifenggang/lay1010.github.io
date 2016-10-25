@@ -15,6 +15,20 @@ titlename: 关于
 
 - 运维小学生（套用郭老师的流行语）
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="{{ site.author.weibo }}" target="_blank">
   <i class="fa fa-weibo fa-lg" style="color:#16a095;"></i>
 </a>
