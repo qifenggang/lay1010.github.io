@@ -2,7 +2,7 @@
 layout: post
 title: qq_vip_autosign
 category: Python
-tags: code 
+tags: code Python
 keywords: selenuim python code
 description: 
 ---
