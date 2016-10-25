@@ -9,6 +9,7 @@ description:
 #  QQ会员自动登录签到
 > 主要利用selenium实现
 ```python
+
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import re,os,time,sys
@@ -75,4 +76,6 @@ finally:
     raw_input('是否继续关闭')
     browser.close()
     browser.quit()
+    
+    
 ```
