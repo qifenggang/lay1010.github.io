@@ -1,0 +1,18 @@
+---
+layout: post
+title: 普通用户无需输入密码执行root的程序
+category: Linux
+tags: linux sudoer  
+keywords: linux sudoer nopasswd
+description: 普通用户无需输入密码执行root的程序
+---
+
+# 普通用户无需输入密码执行root的程序
+```bash
+$:vim /etc/sudoer
+# 添加nagios用户无需输入密码重启nagios服务
+nagios ALL = NOPASSWD: /etc/init.d/nagios restart
+#添加user01 执行任何命令都不需要输入密码
+user01 ALL=(ALL) NOPASSWD: ALL
+```
+
